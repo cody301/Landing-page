@@ -1,0 +1,360 @@
+
+      
+      body{
+        background-image:url("landing page okey.png");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        
+        
+      }
+
+      .first-heading{
+        position: absolute;
+        border: none;
+        color: antiquewhite;
+        cursor: pointer;
+        font-family: "Orbitron", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:100px;
+        font-style:normal;
+        font-size: 30px;
+        margin-left: 20px;
+        margin-top: 0px;
+        padding: 0;
+      }
+
+      .button-one{
+        
+        color: rgb(255, 255, 255);
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:50px;
+        font-style: normal;
+        font-size: 16px;
+        background-color:transparent;
+        border: 0px;
+        cursor: pointer;
+        opacity: 0.5;
+        height: 40px;
+        width: 83px;
+        margin-left:350px;
+        
+      }
+
+      .button-one:hover{
+        opacity: 0.9;
+       }
+
+      .button-one:focus{
+        border-color: rgb(255, 255, 255);
+        border-style: solid;
+        border-width: 1px;
+        height: 40px;
+        width: 83px;
+        border-radius: 2px;
+        opacity: 0.9;
+
+      }
+
+      .button-two{
+        color: rgb(255, 255, 255);
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:50px;
+        font-style: normal;
+        font-size: 16px;
+        background-color: transparent;
+        border: 0px;
+        cursor: pointer;
+        opacity: 0.5;
+        height: 40px;
+        width: 83px;
+        margin-left: 100px;
+        
+      }
+
+      .button-two:hover{
+       opacity: 0.9;
+      }
+
+      .button-two:focus{
+        border-color: rgb(255, 255, 255);
+        border-style: solid;
+        border-width: 1px;
+        height: 40px;
+        width: 83px;
+        border-radius: 2px;
+        opacity: 0.9;
+
+      }
+
+      .button-three{
+        color: rgb(255, 255, 255);
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:50px;
+        font-style: normal;
+        font-size: 16px;
+        background-color: transparent;
+        border: 0px;
+        cursor: pointer;
+        opacity: 0.5;
+        height: 40px;
+        width: 83px;
+        margin-left: 100px;
+      }
+
+      .button-three:hover{
+        opacity: 0.9;
+      }
+
+      .button-three:focus{
+        border-color: rgb(255, 255, 255);
+        border-style: solid;
+        border-width: 1px;
+        height: 40px;
+        width: 83px;
+        border-radius: 2px;
+        opacity: 0.9;
+
+      }
+
+      .button-four{
+        color: rgb(255, 255, 255);
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:50px;
+        font-style: normal;
+        font-size: 16px;
+        background-color: transparent;
+        border: 0px;
+        cursor: pointer;
+        opacity: 0.5;
+        height: 40px;
+        width: 83px;
+        margin-left: 100px;
+       
+
+      }
+
+      .button-four:hover{
+        opacity: 0.9;
+      }
+
+      .button-four:focus{
+        border-color: rgb(255, 255, 255);
+        border-style: solid;
+        border-width: 1px;
+        height: 40px;
+        width: 83px;
+        border-radius: 2px;
+        opacity: 0.9;
+      }
+
+      .button-five{
+        color: rgb(255, 255, 255);
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:50px;
+        font-style: normal;
+        font-size: 16px;
+        background-color: transparent;
+        border: 0px;
+        cursor: pointer;
+        opacity: 0.5;
+        height: 40px;
+        width: 86px;
+        margin-left: 100px;
+       
+      }
+
+      .button-five:hover{
+       opacity: 0.9;
+      }
+
+      .button-five:focus{
+        border-color: rgb(255, 255, 255);
+        border-style: solid;
+        border-width: 1px;
+        height: 40px;
+        width: 86px;
+        border-radius: 2px;
+        opacity: 0.9;
+        margin: right 50px;;
+      }
+
+      .button-six{
+        background-color: transparent;
+        max-height: 24px;
+      }
+      
+      .button-ssix{
+        margin: 0px;
+        border: 0px;
+        padding: 0px;
+        background-color:transparent;
+        opacity: 0.5;
+        margin-left: 250px;
+        
+
+      }
+
+      .button-six:hover{
+        
+        cursor: pointer;
+        opacity: 0.9;
+        
+      }
+
+      
+      .line-head{
+        display: flex;
+        flex-direction: row;
+        margin-top: 30px;
+        
+        
+      }
+
+      .button-last{
+        color: rgb(255, 255, 255);
+        background-color:transparent;
+        margin-left: 150px;
+        margin-top: 40px;
+        border:solid;
+        border-width: 1px;
+        width: 160px;
+        height: 50px;
+        opacity: 0.7;
+      }
+
+      .button-last:hover{
+        cursor: pointer;
+        opacity: 0.9;
+        border-style: bold;
+        border-width: 2px;
+        
+      }
+
+      .paragrah-one{
+        margin: 0%;
+        color:rgb(255, 255, 255);
+        padding-top:200px;
+        padding-left: 150px;
+        font-family: "Orbitron", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:100px;
+        font-style:normal;
+        font-size: 30px;
+        
+      }
+      .paragrah-two{
+        margin: 0%;
+        color: rgb(255, 255, 255);
+        padding-left: 150px;
+        font-family: "Orbitron", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:0;
+        font-style:normal;
+        font-size: 110px;
+        
+        
+      }
+
+      .paragrah-three{
+        margin: 0;
+        color: rgb(255, 255, 255);
+        font-size:50px;
+        padding-left: 150px;
+      
+      }
+
+      
+      .paragrah-four{
+        margin: 0;
+        color: rgb(255, 255, 255);
+        width: 500px;
+        padding-left: 10px;
+        padding-top: 15px;
+        font-weight:10;  
+        font-family: "Orbitron", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:0;
+        font-style:normal;   
+        font-size:small;
+        opacity: 0.7;
+      }
+
+      .line-it{
+        display: flex;
+        flex-direction: row;
+      }
+
+     
+      .allllll{
+        background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        padding-left: 50px;
+        padding-top: 10px;
+        padding-bottom: 11px;
+        margin-top: 20px;
+        margin-left: 900px;
+        
+      }
+
+      .trans-box h1{
+        color:rgb(255, 255, 255);
+        font-family: "Orbitron", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:100px;
+        font-style:normal;
+        font-size: 13px;
+        margin-left: 60px;
+
+        
+        
+      }
+      
+      .trans-box p{
+        color: white;
+        font-family: "Orbitron", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:100px;
+        font-style:normal;
+        font-size:small;
+        width: 230px;
+        margin-left: 60px;
+        opacity: 0.7;
+      }
+
+      
+
+      .trans-box-two h2{
+        color:rgb(255, 255, 255);
+        font-family: "Orbitron", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:100px;
+        font-style:normal;
+        font-size: 13px
+      }
+
+      .trans-box-two p{
+        color: white;
+        font-family: "Orbitron", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:100px;
+        font-style:normal;
+        font-size:small;
+        width: 250px;
+        opacity: 0.7;
+
+      }
+
+      .trans-all{
+        display:flex;
+        flex-direction:row ;
+      }
+      
+     
+     
